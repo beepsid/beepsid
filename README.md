@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hello! 👋 My name is Siddhant Singh.<br><br>#### 📍 Kanpur, India<br><br>## 💻 Tech Stack:
+## Hello! 👋 My name is Siddhant Singh.<br><br>📍 Kanpur, India<br><br>💻 Tech Stack:
 
 
 ## 🌐 Socials:
