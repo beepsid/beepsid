@@ -67,9 +67,9 @@
 ###
 
 <br clear="both">
-
+<div>
 <img src="https://raw.githubusercontent.com/beepsid/beepsid/output/snake.svg" alt="Snake animation" />
-
+</div>
 ###
 
 <br clear="both">
