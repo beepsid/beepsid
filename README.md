@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hello! 👋 My name is Siddhant Singh.<br><br>📍 Kanpur, India<br><br>💻 Tech Stack:
+## Hello! 👋 My name is Siddhant Singh.<br><br> #### 📍 Kanpur, India<br><br> ## 💻 Tech Stack:
 
 
 ## 🌐 Socials:
@@ -12,11 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=beepsid&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=beepsid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=beepsid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=beepsid&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=beepsid&icon=3&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
