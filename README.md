@@ -60,7 +60,7 @@
 ###
 
 <div align="center">
-  <img height="202" width="850" src="berserk.gif" />
+  <img src="berserk.gif" />
 </div>
 
 
