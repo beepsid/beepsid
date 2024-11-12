@@ -66,8 +66,6 @@
 
 ###
 
-# NOW PLAYING
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/beepsid/beepsid/output/snake.svg" alt="Snake animation" />
@@ -75,6 +73,8 @@
 ###
 
 <br clear="both">
+
+## Now Playing
 
 <div align="center">
   <img src="https://senzaei.pythonanywhere.com?theme=dark&spin=false&scan=false&rainbow=false" alt="Widget with the current Spotify song"  />
