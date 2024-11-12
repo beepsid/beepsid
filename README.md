@@ -60,7 +60,7 @@
 ###
 
 <div align="center">
-  <img height="202" src="https://imgflip.com/gif/9a3u7r"  />
+  <img height="202" src="https://i.imgflip.com/9a3u7r.gif" />
 </div>
 
 ###
