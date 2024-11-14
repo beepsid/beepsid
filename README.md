@@ -41,6 +41,8 @@
 
 <br>
 
+---
+
 ### 📋 About Me
 
 - 👨‍💻 **Currently learning**: B.Tech in Computer Science (AI Specialization)
@@ -71,14 +73,19 @@ print(process) # ERROR
 | Storage     | 512 GB (SK hynix BC711 SSD: 512 GB) |
 | RAM         | 8 GB 3200 MHz DDR4 (Samsung: 8 GB) |
 
+---
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/beepsid/beepsid/output/snake.svg" alt="Snake animation" />
 
 <br clear="both">
 
+---
+
 ### 🎵 Now Playing
 
+<br/>
 <div align="center">
   <img src="https://senzaei.pythonanywhere.com?theme=dark&spin=false&scan=false&rainbow=false" alt="Widget with the current Spotify song"  />
 </div>
