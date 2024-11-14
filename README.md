@@ -1,22 +1,11 @@
 <div align="center">
-  <img src="berserk.gif" alt="UwU" width="400px" />
-  <br></br>
-  <h1>👋 Hi! I'm Siddhant <strong>(ナミカゼ)</strong></h1>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beepsid&theme=transparent&hide_border=true" alt="Maseshi's Streak" />
+  <img src="berserk.gif" alt="sword" width="400px" />
+  <h1>👋 Hi! I'm Siddhant <strong>(ナミカゼ
+)</strong></h1>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beepsid&theme=transparent&hide_border=true" alt="Siddhant's Streak" />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://www.youtube.com/@dangozushi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/siddzz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -50,16 +39,45 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
 </div>
 
+<br>
+
+### 📋 About Me
+
+- 👨‍💻 **Currently learning**: B.Tech in Computer Science (AI Specialization)
+- 🌱 **Currently working on**: Building a price comparison app & improving DSA skills
+- 🍫 **What do I like the most?** Dark chocolate 🍫
+- 📫 **How to reach me**: Discord: **senzaei**
+
+
+![Siddhant's Stats](https://github-readme-stats.vercel.app/api?username=beepsid&theme=transparent&hide_border=true&show_icons=true)
+
+```python
+def spotify():
+    process ="error" if current_track['is_playing'] else (pass)
+
+print(process) # ERROR
+# Can work even when errors occur.
+```
+<img src=kyubey.gif width=100>
+
+### 🪴 Workspace
+
+| HP Laptop | |
+|    :---:    | --- |
+| Model       | 15-ec2xxx |
+| OS          | Windows 11 Pro |
+| CPU         | [AMD Ryzen 5600H](https://www.notebookcheck.net/AMD-Ryzen-5-5600H-Processor-Benchmarks-and-Specs.512758.0.html) |
+| GPU         | [AMD Radeon(TM)](https://www.amd.com/en/products/specifications/graphics.html), [NVIDIA Geforce GTX 1650](https://www.techpowerup.com/gpu-specs/geforce-gtx-1650.c3366) |
+| Storage     | 512 GB (SK hynix BC711 SSD: 512 GB) |
+| RAM         | 8 GB 3200 MHz DDR4 (Samsung: 8 GB) |
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/beepsid/beepsid/output/snake.svg" alt="Snake animation" />
 
-###
-
 <br clear="both">
 
-## Now Playing
+### 🎵 Now Playing
 
 <div align="center">
   <img src="https://senzaei.pythonanywhere.com?theme=dark&spin=false&scan=false&rainbow=false" alt="Widget with the current Spotify song"  />
