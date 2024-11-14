@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="berserk.gif" alt="UwU" width="300px" />
+  <img src="berserk.gif" alt="UwU" width="400px" />
   <br></br>
   <h1>👋 Hi! I'm Siddhant <strong>(ナミカゼ)</strong></h1>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=beepsid&theme=transparent&hide_border=true" alt="Maseshi's Streak" />
@@ -13,9 +13,6 @@
   </a>
   <a href="https://www.linkedin.com/in/siddzz/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/746686279781056512" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
 </div>
 
