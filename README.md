@@ -1,7 +1,7 @@
 <div align="center">
   <img src="berserk.gif" alt="sword" width="300px" />
   <h1>📊 Siddhant | Data Analyst</h1>
-  <p><strong>Turning raw data into actionable insights</strong></p>
+  <p><strong>Doing more with data than a normal human 🚀</strong></p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=beepsid&theme=transparent&hide_border=true" alt="Siddhant's Streak" />
 </div>
 
@@ -9,15 +9,12 @@
 
 ## 🎯 About Me
 
-I'm a **Data Analyst** passionate about building data pipelines, crafting interactive dashboards, and uncovering patterns in complex datasets. Currently exploring the depths of **Power BI, DAX, and Python** to solve real-world business problems.
+I'm a **Data Analyst** obsessed with transforming complex datasets into meaningful insights. I build scalable data pipelines, craft interactive dashboards, and uncover hidden patterns that drive business decisions.
 
 - 📊 **Currently**: Data Analyst at **Amlgo Labs**
 - 🎓 **Education**: B.Tech in Computer Science at PSIT Kanpur (2021-2025)
-- 🎯 **Focus Areas**: Power BI, DAX, Power Query, Python, Data Modeling, ETL
-- 🏆 **Recent Wins**: 
-  - Built end-to-end Power BI dashboard for 100K+ order Brazilian e-commerce dataset
-  - Created BPO Call Center analytics simulation engine
-  - Financial correlation analysis: Gold as portfolio safe haven
+- 💼 **Real-World Work**: Built analytics solutions for major clients
+- 🎯 **Focus**: Power BI, DAX, Python, SQL, Data Modeling, ETL, GCP
 - 📫 **Reach me**: Discord: **senzaei** | LinkedIn: [siddzz](https://linkedin.com/in/siddzz/)
 
 ---
@@ -29,7 +26,13 @@ I'm a **Data Analyst** passionate about building data pipelines, crafting intera
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="40" alt="power bi logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="40" alt="mysql logo"  />
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" height="40" alt="tableau logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/looker/looker-icon.svg" height="40" alt="looker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -37,113 +40,81 @@ I'm a **Data Analyst** passionate about building data pipelines, crafting intera
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" alt="gcp logo"  />
 </div>
 
 **Core Skills:**
-- **BI & Visualization**: Power BI, DAX, Power Query (M language)
-- **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn)
-- **Databases**: MySQL, PostgreSQL, Data Modeling
-- **Analytics**: ETL, Data Cleaning, Statistical Analysis
-- **Tools**: Jupyter Notebook, Git, Excel VBA
+- **BI & Visualization**: Power BI, Tableau, Looker, DAX, Power Query (M)
+- **Programming**: Python, JavaScript, C++, DSA
+- **Data Tools**: Pandas, NumPy, Matplotlib, Seaborn, Jupyter
+- **Databases**: MySQL, PostgreSQL, Data Modeling & Optimization
+- **Analytics**: ETL Pipelines, Data Cleaning, Statistical Analysis, Performance Tuning
+- **Cloud**: Google Cloud Platform (GCP)
+- **Tools**: Git, GitHub, Excel VBA, Vercel, APIs
 
 ---
 
 ## 📈 Featured Projects
 
-### 🛒 Olist Brazilian E-Commerce Analytics Dashboard
+### 🏢 Client Purchase Analytics Dashboard
+**Power BI | Data Modeling | DAX | Real Client Work**
+- Built comprehensive purchase analytics dashboard for major client
+- Tracks client performance metrics and sales audit trails
+- Interactive visualizations for vendor performance analysis
+- Real-world production deployment
+
+### 📊 Olist Brazilian E-Commerce Analytics
 **Power BI | Data Modeling | DAX**
-- Analyzed 100,000+ orders across 9 relational tables
+- End-to-end analysis of 100,000+ orders across 9 relational tables
 - Built interactive 5-page dashboard with advanced DAX measures
-- Resolved data quality issues: deduplication, missing values, broken joins
-- **Impact**: Real-world dataset from Kaggle
+- Data quality resolution: deduplication, missing values, broken joins
+- Kaggle real-world dataset
 
-### 📞 BPO Call Center Operations Analytics
-**Python | Data Simulation | Analytics**
-- Engineered Python simulation engine generating 50,000+ realistic call records
-- Modeled Tech Support, Billing, and Retention departments
-- Replicated production workflows with configurable variables
-
-### 💰 Volatility Safe Haven Correlation Engine
-**Python | Financial Analytics | Visualization**
-- Analyzed 5 years of daily market data (Nifty 50 vs Gold)
-- Built interactive dashboard analyzing gold as portfolio safe haven
-- End-to-end financial data pipeline
+### 💰 Portfolio Safe Haven Analysis
+**Python | Financial Analytics | Data Pipeline**
+- Analyzed 5 years of daily market data (Nifty 50 vs Gold correlation)
+- Built interactive dashboard analyzing gold as portfolio hedge
+- End-to-end financial data pipeline with feature engineering
 
 ---
 
-## 🎮 **Play the Data Game!**
+## 🎵 Now Playing on Spotify
 
-**Click the button below to collect data points and build your analytics empire!**
-
-<div style="border: 2px solid #3498db; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-align: center; font-family: 'Arial', sans-serif; margin: 20px 0;">
-  
-  <div style="font-size: 48px; margin: 10px 0;" id="dataPoints">0</div>
-  <div style="font-size: 16px; margin-bottom: 15px;">Data Points Collected</div>
-  
-  <button onclick="collectData()" style="background: #fff; color: #667eea; border: none; padding: 12px 30px; font-size: 16px; font-weight: bold; border-radius: 5px; cursor: pointer; margin: 5px; transition: all 0.3s;">
-    📊 Collect Data
-  </button>
-  
-  <button onclick="autoCollect()" style="background: #2ecc71; color: white; border: none; padding: 12px 30px; font-size: 16px; font-weight: bold; border-radius: 5px; cursor: pointer; margin: 5px; transition: all 0.3s;" id="autoBtn">
-    ⚡ Auto Collect (100pts)
-  </button>
-  
-  <button onclick="resetGame()" style="background: #e74c3c; color: white; border: none; padding: 12px 30px; font-size: 16px; font-weight: bold; border-radius: 5px; cursor: pointer; margin: 5px; transition: all 0.3s;">
-    🔄 Reset
-  </button>
-  
-  <div style="margin-top: 15px; font-size: 14px; opacity: 0.9;">
-    <div id="stats">
-      <p>💾 Clicks: <span id="clicks">0</span></p>
-      <p>⚙️ Auto Collectors: <span id="autoCount">0</span></p>
+<div align="center">
+  <div style="border: 2px solid #1DB954; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #0f0c29 0%, #302b63 100%); color: white; text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 20px 0;">
+    <div id="spotify-widget" style="font-size: 14px;">
+      <p>Loading your current track...</p>
     </div>
   </div>
 </div>
 
 <script>
-let dataPoints = 0;
-let clicks = 0;
-let autoCount = 0;
-let autoInterval = null;
-
-function collectData() {
-  dataPoints += 1 + autoCount;
-  clicks++;
-  updateDisplay();
-}
-
-function autoCollect() {
-  if (autoCount < 5) {
-    autoCount++;
-    updateDisplay();
-    
-    if (autoInterval) clearInterval(autoInterval);
-    autoInterval = setInterval(() => {
-      dataPoints += autoCount;
-      updateDisplay();
-    }, 1000);
+async function updateSpotify() {
+  try {
+    const response = await fetch('https://api.vercel.com/v1/projects/YOUR_VERCEL_PROJECT/deployments');
+    // For now, show a placeholder
+    const widget = document.getElementById('spotify-widget');
+    widget.innerHTML = `
+      <div style="font-size: 12px; opacity: 0.8;">
+        <p>🎵 Spotify widget coming soon!</p>
+        <p><a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID" style="color: #1DB954; text-decoration: none;">Open Spotify Profile →</a></p>
+      </div>
+    `;
+  } catch (error) {
+    console.log('Spotify widget setup in progress');
   }
 }
-
-function resetGame() {
-  dataPoints = 0;
-  clicks = 0;
-  autoCount = 0;
-  if (autoInterval) clearInterval(autoInterval);
-  updateDisplay();
-}
-
-function updateDisplay() {
-  document.getElementById('dataPoints').textContent = dataPoints;
-  document.getElementById('clicks').textContent = clicks;
-  document.getElementById('autoCount').textContent = autoCount;
-  document.getElementById('autoBtn').disabled = autoCount >= 5;
-  document.getElementById('autoBtn').style.opacity = autoCount >= 5 ? '0.5' : '1';
-}
+updateSpotify();
+setInterval(updateSpotify, 30000);
 </script>
+
+> 🎧 Check out what I'm vibing to on [Spotify](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
 
 ---
 
@@ -163,7 +134,7 @@ function updateDisplay() {
 ## 🏆 Certifications & Learning
 
 - 🎖️ **Deloitte Australia** - Data Analytics Job Simulation (Jun 2026)
-- 📚 **Meta Certifications** - Data Modeling, MySQL, Python, Databases
+- 📚 **Meta** - Data Modeling, MySQL, Python, Databases
 - 🔍 **Google** - The Arcade Base Camp (Sep 2024)
 - 📊 **Microsoft** - PL-300: Power BI Data Analyst (In Progress)
 
@@ -175,21 +146,49 @@ function updateDisplay() {
   <img src="https://github-readme-stats.vercel.app/api?username=beepsid&theme=transparent&hide_border=true&show_icons=true" alt="GitHub Stats" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beepsid&theme=transparent&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+
 ---
 
-## 🎵 Currently Exploring
+## 🎯 Currently Exploring
 
-> "Data is everywhere. The key is asking the right questions." 📊
-
-Deeply diving into:
-- 🎯 Advanced DAX patterns and performance optimization
-- 🔄 ETL pipeline automation with Python
+- 🎯 Advanced DAX patterns & performance optimization
+- 🔄 Automating ETL pipelines with Python
 - 📈 Statistical modeling for business forecasting
-- 💡 Real-world analytics problem-solving
+- 💡 Building end-to-end analytics solutions for real clients
+- ⚡ Optimizing query performance in large datasets
+
+---
+
+## 🚀 Deployment Guide
+
+### **Deploy Spotify Widget to Vercel**
+
+1. **Get your Spotify credentials** (done ✓)
+2. **Update `.env.local`** with your values:
+   ```
+   SPOTIFY_CLIENT_ID=your_client_id
+   SPOTIFY_CLIENT_SECRET=your_client_secret
+   SPOTIFY_REFRESH_TOKEN=your_refresh_token
+   ```
+
+3. **Deploy to Vercel**:
+   ```bash
+   npm i -g vercel
+   vercel env add SPOTIFY_CLIENT_ID
+   vercel env add SPOTIFY_CLIENT_SECRET
+   vercel env add SPOTIFY_REFRESH_TOKEN
+   vercel deploy
+   ```
+
+4. **Update README** with your Vercel URL:
+   - Replace `api/spotify.js` endpoint in README with your Vercel deployment URL
 
 ---
 
 <div align="center">
   <img src="kyubey.gif" width="100" alt="kyubey">
-  <p><strong>Let's turn data into decisions!</strong> 🚀</p>
+  <p><strong>Data is the new oil. Let's refine it! 🛢️➡️💎</strong></p>
 </div>
