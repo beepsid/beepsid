@@ -2,9 +2,8 @@
   "name": "github-spotify",
   "version": "1.0.0",
   "description": "Spotify widget for GitHub profile",
-  "type": "module",
+  "main": "index.js",
   "scripts": {
-    "dev": "vercel dev",
-    "build": "echo 'No build needed'"
+    "dev": "vercel dev"
   }
 }
