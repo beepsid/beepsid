@@ -105,24 +105,9 @@ I'm a **Data Analyst** obsessed with transforming complex datasets into meaningf
 
 - 🎖️ **Deloitte Australia** - Data Analytics Job Simulation (Jun 2026)
 - 📚 **Meta** - Data Modeling, MySQL, Python, Databases
-- 🔍 **Google** - The Arcade Base Camp (Sep 2024)
 - 📊 **Microsoft** - PL-300: Power BI Data Analyst (In Progress)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beepsid&theme=transparent&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beepsid&theme=transparent&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beepsid&theme=transparent&hide_border=true" alt="Streak Stats" />
-</div>
 
 ### Contributions
 
