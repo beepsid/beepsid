@@ -82,15 +82,13 @@ I'm a **Data Analyst** obsessed with transforming complex datasets into meaningf
 
 ---
 
-## 🎵 Spotify
+## 🎵 Spotify - Now Playing
 
 <div align="center">
   <a href="https://open.spotify.com/user/senzaei" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=senzaei&cover_image=true&theme=default&show_offline=true&background_color=121212" alt="Spotify Profile" style="max-width: 100%; border-radius: 12px;" />
+    <img src="https://github-spotify-eight.vercel.app/api/spotify-card" alt="Now Playing on Spotify" />
   </a>
 </div>
-
-> 🎧 **Currently Playing**: Check my [Spotify Profile](https://open.spotify.com/user/senzaei) for what I'm listening to!
 
 ---
 
@@ -128,6 +126,12 @@ I'm a **Data Analyst** obsessed with transforming complex datasets into meaningf
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=beepsid&theme=transparent&hide_border=true" alt="Streak Stats" />
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/beepsid/beepsid/output/snake.svg" alt="Contribution Snake Animation" />
 </div>
 
 ---
