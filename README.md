@@ -1,7 +1,7 @@
 <div align="center">
   <img src="berserk.gif" alt="sword" width="300px" />
   <h1>📊 Siddhant | Data Analyst</h1>
-  <p><strong>Doing more with data than a normal human 🚀</strong></p>
+  <p><strong>Doing more with data than just exploring</strong></p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=beepsid&theme=transparent&hide_border=true" alt="Siddhant's Streak" />
 </div>
 
@@ -9,13 +9,13 @@
 
 ## 🎯 About Me
 
-I'm a **Data Analyst** obsessed with transforming complex datasets into meaningful insights. I build scalable data pipelines, craft interactive dashboards, and uncover hidden patterns that drive business decisions.
+I'm a **Data Analyst** obsessed with transforming complex datasets into meaningful insights. I build scalable data pipelines, craft interactive dashboards, and uncover hidden patterns that help with critical business decisions.
 
-- 📊 **Currently**: Data Analyst at **Amlgo Labs**
-- 🎓 **Education**: B.Tech in Computer Science at PSIT Kanpur (2021-2025)
+- 📊 **Currently**: Data Analyst at **[Amlgo Labs](https://www.linkedin.com/company/amlgolabs)**
+- 🎓 **Education**: B.Tech in Computer Science (AI) at PSIT Kanpur (2021-2025)
 - 💼 **Real-World Work**: Built analytics solutions for major clients
-- 🎯 **Focus**: Power BI, DAX, Python, SQL, Data Modeling, ETL, GCP
-- 📫 **Reach me**: Discord: **senzaei** | LinkedIn: [siddzz](https://linkedin.com/in/siddzz/)
+- 🎯 **Focus**: Power BI, DAX, Python, SQL, Data Modeling, ETL, Cloud
+- 📫 **Reach me**: Discord: **senzaei** | LinkedIn: [Siddzz](https://linkedin.com/in/siddzz/)
 
 ---
 
@@ -26,9 +26,7 @@ I'm a **Data Analyst** obsessed with transforming complex datasets into meaningf
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="40" alt="power bi logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" height="40" alt="tableau logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/looker/looker-icon.svg" height="40" alt="looker logo"  />
+  <img src="looker-icon.svg" height="40" alt="looker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -84,9 +82,15 @@ I'm a **Data Analyst** obsessed with transforming complex datasets into meaningf
 
 ---
 
-## 🎵 Listen on Spotify
+## 🎵 Spotify
 
-> 🎧 Check out my music taste on [Spotify](https://open.spotify.com/user/senzaei)
+<div align="center">
+  <a href="https://open.spotify.com/user/senzaei" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=senzaei&cover_image=true&theme=default&show_offline=true&background_color=121212" alt="Spotify Profile" style="max-width: 100%; border-radius: 12px;" />
+  </a>
+</div>
+
+> 🎧 **Currently Playing**: Check my [Spotify Profile](https://open.spotify.com/user/senzaei) for what I'm listening to!
 
 ---
 
@@ -115,11 +119,15 @@ I'm a **Data Analyst** obsessed with transforming complex datasets into meaningf
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beepsid&theme=transparent&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beepsid&theme=transparent&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beepsid&theme=transparent&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beepsid&theme=transparent&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beepsid&theme=transparent&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
@@ -136,5 +144,5 @@ I'm a **Data Analyst** obsessed with transforming complex datasets into meaningf
 
 <div align="center">
   <img src="kyubey.gif" width="100" alt="kyubey">
-  <p><strong>Data is the new oil. Let's refine it! 🛢️➡️💎</strong></p>
+  <p><strong>Data is the new oil. Let's refine it! </strong></p>
 </div>
