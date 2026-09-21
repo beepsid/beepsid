@@ -1,5 +1,6 @@
 module.exports = async (req, res) => {
-  const { code } = req.query;
+  const url = new URL(req.url, `https://${req.headers.host}`);
+  const code = url.searchParams.get('code');
 
   const CLIENT_ID = process.env.SPOTIFY_CLIENT_ID;
   const CLIENT_SECRET = process.env.SPOTIFY_CLIENT_SECRET;
