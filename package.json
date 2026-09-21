@@ -1,8 +1,0 @@
-{
-  "name": "github-spotify",
-  "version": "1.0.0",
-  "description": "Spotify widget for GitHub profile",
-  "scripts": {
-    "dev": "vercel dev"
-  }
-}

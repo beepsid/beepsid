@@ -82,13 +82,9 @@ I'm a **Data Analyst** obsessed with transforming complex datasets into meaningf
 
 ---
 
-## 🎵 Spotify - Now Playing
+## 🎵 Spotify
 
-<div align="center">
-  <a href="https://open.spotify.com/user/senzaei" target="_blank">
-    <img src="https://github-spotify-eight.vercel.app/api/spotify-card" alt="Now Playing on Spotify" />
-  </a>
-</div>
+> Check out my music taste on [Spotify](https://open.spotify.com/user/senzaei)
 
 ---
 
