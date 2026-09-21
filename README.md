@@ -124,7 +124,7 @@ I'm a **Data Analyst** obsessed with transforming complex datasets into meaningf
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=beepsid&theme=transparent&hide_border=true" alt="Streak Stats" />
 </div>
 
-### 🐍 Contribution Snake
+### Contributions
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/beepsid/beepsid/output/snake.svg" alt="Contribution Snake Animation" />
