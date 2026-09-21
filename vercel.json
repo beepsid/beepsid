@@ -1,8 +1,15 @@
 {
+  "version": 2,
+  "buildCommand": "echo 'No build needed'",
+  "outputDirectory": ".",
   "functions": {
-    "api/spotify.js": {
+    "api/**/*.js": {
       "memory": 128,
       "maxDuration": 10
+    },
+    "index.js": {
+      "memory": 128,
+      "maxDuration": 5
     }
   }
 }
