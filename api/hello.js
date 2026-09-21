@@ -1,3 +1,4 @@
 module.exports = (req, res) => {
-  res.json({ message: "Hello from Vercel!", timestamp: new Date() });
+  res.writeHead(200, { 'Content-Type': 'application/json' });
+  res.end(JSON.stringify({ message: "Hello from Vercel!", timestamp: new Date() }));
 };

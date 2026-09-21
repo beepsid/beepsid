@@ -10,9 +10,14 @@ module.exports = async (req, res) => {
     tests: {}
   };
 
+  const sendJSON = (statusCode, data) => {
+    res.writeHead(statusCode, { 'Content-Type': 'application/json' });
+    res.end(JSON.stringify(data));
+  };
+
   // Test 1: Check if credentials exist
   if (!CLIENT_ID || !CLIENT_SECRET || !REFRESH_TOKEN) {
-    return res.json({
+    return sendJSON(400, {
       ...results,
       error: "Missing one or more environment variables",
       message: `Missing: ${!CLIENT_ID ? 'CLIENT_ID ' : ''}${!CLIENT_SECRET ? 'CLIENT_SECRET ' : ''}${!REFRESH_TOKEN ? 'REFRESH_TOKEN' : ''}`
@@ -38,7 +43,7 @@ module.exports = async (req, res) => {
     };
 
     if (tokenData.error) {
-      return res.json({
+      return sendJSON(400, {
         ...results,
         error: "Failed to refresh token",
         message: tokenData.error_description || tokenData.error
@@ -62,7 +67,7 @@ module.exports = async (req, res) => {
     };
 
     if (userData.error) {
-      return res.json({
+      return sendJSON(400, {
         ...results,
         error: "Failed to get user info",
         message: userData.error?.message || "Unknown error"
@@ -84,13 +89,13 @@ module.exports = async (req, res) => {
       error: playingData.error || null
     };
 
-    return res.json({
+    return sendJSON(200, {
       ...results,
       success: true,
       message: "All credentials are valid! ✅"
     });
   } catch (error) {
-    return res.json({
+    return sendJSON(500, {
       ...results,
       error: error.message,
       success: false

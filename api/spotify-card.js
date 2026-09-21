@@ -3,6 +3,14 @@ module.exports = async (req, res) => {
   const CLIENT_SECRET = process.env.SPOTIFY_CLIENT_SECRET;
   const REFRESH_TOKEN = process.env.SPOTIFY_REFRESH_TOKEN;
 
+  const sendSVG = (svg) => {
+    res.writeHead(200, {
+      "Content-Type": "image/svg+xml",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    });
+    res.end(svg);
+  };
+
   if (!CLIENT_ID || !CLIENT_SECRET || !REFRESH_TOKEN) {
     const svg = `
       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="350" height="200" viewBox="0 0 350 200">
@@ -20,8 +28,7 @@ module.exports = async (req, res) => {
         <text x="20" y="120" class="text subtitle">Configure SPOTIFY_* env vars</text>
       </svg>
     `;
-    res.setHeader("Content-Type", "image/svg+xml");
-    return res.send(svg);
+    return sendSVG(svg);
   }
 
   try {
@@ -51,8 +58,7 @@ module.exports = async (req, res) => {
           <text x="20" y="100" class="text" font-size="14">Error refreshing token</text>
         </svg>
       `;
-      res.setHeader("Content-Type", "image/svg+xml");
-      return res.send(svg);
+      return sendSVG(svg);
     }
 
     const accessToken = tokenData.access_token;
@@ -134,9 +140,7 @@ module.exports = async (req, res) => {
       `;
     }
 
-    res.setHeader("Content-Type", "image/svg+xml");
-    res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
-    res.send(svg);
+    return sendSVG(svg);
   } catch (error) {
     const svg = `
       <svg xmlns="http://www.w3.org/2000/svg" width="350" height="200" viewBox="0 0 350 200">
@@ -150,8 +154,7 @@ module.exports = async (req, res) => {
         <text x="20" y="100" class="text" font-size="14">Error: ${error.message.substring(0, 40)}</text>
       </svg>
     `;
-    res.setHeader("Content-Type", "image/svg+xml");
-    res.send(svg);
+    return sendSVG(svg);
   }
 };
 

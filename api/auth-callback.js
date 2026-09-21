@@ -5,12 +5,17 @@ module.exports = async (req, res) => {
   const CLIENT_ID = process.env.SPOTIFY_CLIENT_ID;
   const CLIENT_SECRET = process.env.SPOTIFY_CLIENT_SECRET;
 
+  const sendJSON = (statusCode, data) => {
+    res.writeHead(statusCode, { 'Content-Type': 'application/json' });
+    res.end(JSON.stringify(data));
+  };
+
   if (!code) {
-    return res.status(400).json({ error: "No authorization code received" });
+    return sendJSON(400, { error: "No authorization code received" });
   }
 
   if (!CLIENT_ID || !CLIENT_SECRET) {
-    return res.status(400).json({ error: "Missing CLIENT_ID or CLIENT_SECRET env vars" });
+    return sendJSON(400, { error: "Missing CLIENT_ID or CLIENT_SECRET env vars" });
   }
 
   try {
@@ -29,7 +34,7 @@ module.exports = async (req, res) => {
     const tokenData = await tokenResponse.json();
 
     if (tokenData.error) {
-      return res.status(400).json({
+      return sendJSON(400, {
         error: "Failed to get tokens",
         details: tokenData.error_description
       });
@@ -78,10 +83,10 @@ module.exports = async (req, res) => {
       </html>
     `;
 
-    res.setHeader("Content-Type", "text/html");
-    res.send(html);
+    res.writeHead(200, { 'Content-Type': 'text/html' });
+    res.end(html);
   } catch (error) {
-    res.status(500).json({
+    sendJSON(500, {
       error: "Server error",
       message: error.message
     });

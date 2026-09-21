@@ -1,5 +1,4 @@
 module.exports = async (req, res) => {
-  // Root path - redirect to API endpoints info
   const html = `
     <!DOCTYPE html>
     <html>
@@ -27,6 +26,6 @@ module.exports = async (req, res) => {
     </body>
     </html>
   `;
-  res.setHeader('Content-Type', 'text/html');
-  res.send(html);
+  res.writeHead(200, { 'Content-Type': 'text/html' });
+  res.end(html);
 };
