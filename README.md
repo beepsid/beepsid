@@ -84,37 +84,9 @@ I'm a **Data Analyst** obsessed with transforming complex datasets into meaningf
 
 ---
 
-## 🎵 Now Playing on Spotify
+## 🎵 Listen on Spotify
 
-<div align="center">
-  <div style="border: 2px solid #1DB954; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #0f0c29 0%, #302b63 100%); color: white; text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 20px 0;">
-    <div id="spotify-widget" style="font-size: 14px;">
-      <p>Loading your current track...</p>
-    </div>
-  </div>
-</div>
-
-<script>
-async function updateSpotify() {
-  try {
-    const response = await fetch('https://api.vercel.com/v1/projects/YOUR_VERCEL_PROJECT/deployments');
-    // For now, show a placeholder
-    const widget = document.getElementById('spotify-widget');
-    widget.innerHTML = `
-      <div style="font-size: 12px; opacity: 0.8;">
-        <p>🎵 Spotify widget coming soon!</p>
-        <p><a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID" style="color: #1DB954; text-decoration: none;">Open Spotify Profile →</a></p>
-      </div>
-    `;
-  } catch (error) {
-    console.log('Spotify widget setup in progress');
-  }
-}
-updateSpotify();
-setInterval(updateSpotify, 30000);
-</script>
-
-> 🎧 Check out what I'm vibing to on [Spotify](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+> 🎧 Check out my music taste on [Spotify](https://open.spotify.com/user/senzaei)
 
 ---
 
@@ -159,32 +131,6 @@ setInterval(updateSpotify, 30000);
 - 📈 Statistical modeling for business forecasting
 - 💡 Building end-to-end analytics solutions for real clients
 - ⚡ Optimizing query performance in large datasets
-
----
-
-## 🚀 Deployment Guide
-
-### **Deploy Spotify Widget to Vercel**
-
-1. **Get your Spotify credentials** (done ✓)
-2. **Update `.env.local`** with your values:
-   ```
-   SPOTIFY_CLIENT_ID=your_client_id
-   SPOTIFY_CLIENT_SECRET=your_client_secret
-   SPOTIFY_REFRESH_TOKEN=your_refresh_token
-   ```
-
-3. **Deploy to Vercel**:
-   ```bash
-   npm i -g vercel
-   vercel env add SPOTIFY_CLIENT_ID
-   vercel env add SPOTIFY_CLIENT_SECRET
-   vercel env add SPOTIFY_REFRESH_TOKEN
-   vercel deploy
-   ```
-
-4. **Update README** with your Vercel URL:
-   - Replace `api/spotify.js` endpoint in README with your Vercel deployment URL
 
 ---
 
